@@ -11,7 +11,5 @@ export default {
   plugins: [
     resolve(),
     commonjs()
-  ],
-
-  external: ['dotenv']
+  ]
 };
