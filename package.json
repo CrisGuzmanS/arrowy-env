@@ -1,6 +1,6 @@
 {
   "name": "arrowy-env",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "function which access to an env variables located in the .env file in the root folder.",
   "main": "dist/index.umd.cjs",
   "type": "module",
